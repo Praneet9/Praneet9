@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **Praneet9/Praneet9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Praneet</h1>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=praneet9 alt=praneet9/> </p>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=praneet9&show_icons=true alt=praneet9 /> </p>
+
+<p align="center">
+<a href=https://twitter.com/9teenarp target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="9teenarp" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/praneet9 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="praneet9" height="20" width="20" /></a>
+</p>
