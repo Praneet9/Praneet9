@@ -25,6 +25,7 @@ Create readme at https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ### 📓 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Visualising LSTM Activations in Keras](https://towardsdatascience.com/visualising-lstm-activations-in-keras-b50206da96ff?source=rss-b4b75c391bcc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneet9&layout=compact&hide=html" alt="praneet9" style="margin-bottom:10px" /></p>
