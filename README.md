@@ -21,7 +21,7 @@ Create readme at https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneet9" alt="praneet9" /> </p>
 
-- [My Portfolio](https://praneet.me/)
+🔗 [My Portfolio](https://praneet.me/)
 
 ### 📓 Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -32,8 +32,8 @@ Create readme at https://rahuldkjain.github.io/gh-profile-readme-generator/
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=praneet9&show_icons=true&count_private=true" alt="praneet9" /></p>
 
 <p align="center">
-<a href="https://twitter.com/9teenarp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="9teenarp" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/praneet9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="praneet9" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/12252254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12252254" height="30" width="30" /></a>
-<a href="https://medium.com/@praneet9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@praneet9" height="30" width="30" /></a>
+<a href="https://twitter.com/9teenarp" target="blank" style="margin:15px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="9teenarp" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/praneet9" target="blank" style="margin:15px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="praneet9" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/12252254" target="blank" style="margin:15px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12252254" height="30" width="30" /></a>
+<a href="https://medium.com/@praneet9" target="blank" style="margin:15px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@praneet9" height="30" width="30" /></a>
 </p>
