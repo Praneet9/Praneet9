@@ -19,7 +19,7 @@ Create readme at https://rahuldkjain.github.io/gh-profile-readme-generator/
 <h1 align="center">Hi 👋, I'm Praneet</h1>
 <h3 align="center">A software geek from India 👨🏽‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praneet9" alt="praneet9" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=praneet9" alt="praneet9" /></p>
 
 🔗 [My Portfolio](https://praneet.me/)
 
