@@ -25,6 +25,7 @@ Create readme at https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ### 📓 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Training in PyTorch — Part 1 (Distributed Data Parallel)](https://praneet9.medium.com/distributed-training-in-pytorch-part-1-distributed-data-parallel-ae5c645e74cb?source=rss-b4b75c391bcc------2)
 - [Visualising LSTM Activations in Keras](https://towardsdatascience.com/visualising-lstm-activations-in-keras-b50206da96ff?source=rss-b4b75c391bcc------2)
 <!-- BLOG-POST-LIST:END -->
 
