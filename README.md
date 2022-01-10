@@ -25,6 +25,7 @@ Create readme at https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 ### 📓 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Semantic Segmentation with SegFormer](https://medium.com/geekculture/semantic-segmentation-with-segformer-2501543d2be4?source=rss-b4b75c391bcc------2)
 - [Real-time Object Detection on CPU](https://towardsdatascience.com/real-time-object-detection-on-cpu-9f77d32deeaf?source=rss-b4b75c391bcc------2)
 - [Distributed Training in PyTorch — Part 1 &lpar;Distributed Data Parallel&rpar;](https://medium.com/analytics-vidhya/distributed-training-in-pytorch-part-1-distributed-data-parallel-ae5c645e74cb?source=rss-b4b75c391bcc------2)
 - [Visualising LSTM Activations in Keras](https://towardsdatascience.com/visualising-lstm-activations-in-keras-b50206da96ff?source=rss-b4b75c391bcc------2)
