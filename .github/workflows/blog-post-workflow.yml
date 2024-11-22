@@ -1,7 +1,8 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '0 0 * * 1'
+        - cron: '0 0 * * 1' # This runs the workflow every Monday at midnight UTC
+    workflow_dispatch:  # This allows you to manually trigger the workflow via GitHub UI
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
