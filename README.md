@@ -32,8 +32,8 @@ Create readme at https://rahuldkjain.github.io/gh-profile-readme-generator/
 - [Distributed Training in PyTorch — Part 1 &lpar;Distributed Data Parallel&rpar;](https://medium.com/analytics-vidhya/distributed-training-in-pytorch-part-1-distributed-data-parallel-ae5c645e74cb?source=rss-b4b75c391bcc------2)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=praneet9&show_icons=true&count_private=true&theme=dark&show=prs_merged,prs_merged_percentage" alt="praneet9" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praneet9&layout=compact)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=praneet9&show_icons=true&count_private=true&theme=dark&show=prs_merged,prs_merged_percentage" alt="Praneet's Github Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneet9&layout=compact" alt="Praneet's most used programming languages" /></p>
 
 <p align="center">
 <a href="https://twitter.com/9teenarp" target="blank" style="margin:15px"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="9teenarp" height="30" width="30" /></a>
