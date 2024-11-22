@@ -32,7 +32,7 @@ Create readme at https://rahuldkjain.github.io/gh-profile-readme-generator/
 - [Distributed Training in PyTorch — Part 1 &lpar;Distributed Data Parallel&rpar;](https://medium.com/analytics-vidhya/distributed-training-in-pytorch-part-1-distributed-data-parallel-ae5c645e74cb?source=rss-b4b75c391bcc------2)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=praneet9&show_icons=true&count_private=true&theme=dark&show=prs_merged,prs_merged_percentage" alt="Praneet's Github Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-nu-dun-64.vercel.app/api?username=praneet9&show_icons=true&count_private=true&theme=dark&show=prs_merged,prs_merged_percentage" alt="Praneet's Github Stats" /></p>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneet9&layout=compact&theme=dark" alt="Praneet's most used programming languages" /></p> -->
 
 <p align="center">
